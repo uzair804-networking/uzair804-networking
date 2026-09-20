@@ -1,32 +1,73 @@
-# Hi there, I'm Malik Uzair Khan 👋
+# 👋 Hi, I'm Uzair Khan
 
-A Computer Science graduate and passionate Network Engineer dedicated to building robust infrastructure, exploring network automation, and mastering modern cloud and security environments.
+### 🌐 Network Engineer | Cisco Networking | Network Automation
 
-## About Me ⚡
+🎓 **BS Computer Science Graduate**  
+🌐 Focused on **Networking, Routing & Switching, Network Troubleshooting & Automation**  
+🧪 Building practical networking labs and documenting my learning journey  
+🚀 Currently progressing toward **CCNP & Network Automation**
 
-* 🔭 **I’m currently working on:** Advanced network configurations, Cisco topologies, and custom software projects.
-* 👯 **I’m looking to collaborate on:** Network engineering tools, automation scripts, and open-source infrastructure projects.
-* 🤝 **I’m looking for help with:** Advanced SD-WAN architectures and cloud networking best practices.
-* 🌱 **I’m currently learning:** CCNP certification topics (ENCOR & ENARSI) and practical AI implementation.
-* 💬 **Ask me about:** Cisco Packet Tracer, DHCP/routing topologies, cryptography, and network security concepts.
-* ⚡ **Fun fact:** I love bridging the gap between hardware infrastructure and software logic!
+---
 
-## Tech Stack 🛠️
+## 🧑‍💻 About Me
 
-* **Networking & Security:** Cisco IOS, CCNA, Routing & Switching, DHCP, Cryptography
-* **Programming & Tools:** C++, Python, Cisco Packet Tracer, Git## Hi there 👋
+I'm a Computer Science graduate with a strong interest in **Computer Networking
+and Network Engineering**.
 
-<!--
-**uzair804-networking/uzair804-networking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My focus is on building practical skills through hands-on labs, network
+troubleshooting, Cisco technologies, and automation.
 
-Here are some ideas to get you started:
+I believe in learning networking by **building, configuring, testing,
+troubleshooting, and documenting real network scenarios.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Networking Skills
+
+### 🔀 Routing & Switching
+
+- 🌐 IPv4 / IPv6
+- 📡 Ethernet & Switching
+- 🔀 VLANs
+- 🔗 Trunking & 802.1Q
+- 🌳 STP / RSTP
+- ⚡ EtherChannel
+- 🧭 Static Routing
+- 🚦 RIP
+- 🚦 EIGRP
+- 🚀 OSPF
+- 🔐 ACLs
+- 🔄 NAT / PAT
+- 📦 DHCP
+- 🛰️ Network Troubleshooting
+
+### 🏢 Enterprise Networking
+
+- 🏢 LAN / WAN
+- 🌐 Routing & Switching
+- 🔐 Network Security Fundamentals
+- 📡 Wireless Networking
+- ☁️ Cloud Networking Fundamentals
+- 🔀 SD-WAN Fundamentals
+- 📊 Network Monitoring & Troubleshooting
+
+---
+
+## 🤖 Network Automation
+
+I'm developing my automation skills specifically for networking.
+
+```text
+Python
+   ↓
+Network Programming
+   ↓
+Netmiko / Paramiko
+   ↓
+REST APIs
+   ↓
+JSON
+   ↓
+Ansible
+   ↓
+Network Automation
